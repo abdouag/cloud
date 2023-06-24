@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.App-header {
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.App-header h1 {
+  color: #2c3e50;
+}
+
+.App-header p {
+  color: #8e44ad;
+}
+
+.App-content {
+  margin: 40px 0;
+}
+
+.App-content h2 {
+  color: #27ae60;
+}
+
+.App-footer {
+  background-color: #f7f7f7;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.MapContainer {
+  margin: 40px auto;
+  max-width: 800px;
+}
